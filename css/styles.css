@@ -40,7 +40,7 @@
     height: 325px;
 }
 
-.img-redes{
+.img-redes {
     height: 30px;
     width: 30px;
 }
@@ -49,24 +49,24 @@
     height: 500px;
 }
 
-#principal{
+#principal {
     background-image: url(https://static.wixstatic.com/media/128120_461471eeba0246faae72fb3f49a57fc8~mv2.jpg/v1/fill/w_1178,h_607,al_c,q_85,enc_auto/128120_461471eeba0246faae72fb3f49a57fc8~mv2.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
 }
 
-.descripcion{
+.descripcion {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 25px;
 }
 
-.img-colab{
+.img-colab {
     height: 170px;
     width: 170px;
 }
 
-.card-info{
+.card-info {
     background-color: #16233F;
     border-radius: 25px 25px 25px 25px;
     font-family: Arial, Helvetica, sans-serif;
